@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トリアージ",
+  "base_artist": "MILGRAM シドウ (CV: 仲村宗悟)",
+  "createdAt": "2026-04-02T11:10:11.694221Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トリアージ",
+      "artist": "MILGRAM シドウ (CV: 仲村宗悟)",
+      "has_synced": false,
+      "path": "select/pl_01_トリアージ_MILGRAM_シドウ_(CV__仲村宗悟).txt"
+    }
+  ]
+}
